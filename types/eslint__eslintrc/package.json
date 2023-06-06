@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "dependencies": {
+        "@types/minimatch": "3.0.3",
+        "ajv": "^6.12.4"
+    }
+}
